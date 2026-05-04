@@ -318,8 +318,8 @@ function SignupCard({ buttonStyle = "navy" }) {
 
           <a
             className="access-button"
-            https://www.notion.so/I-Built-My-First-Landing-Page-with-Claude-It-Took-Me-15-Minutes-3561b991d6418006aa09e445c954dbde?source=copy_link"
-            target="_blank"
+  href="https://www.notion.so/ANA-AI-Public-Resources-3551b991d64180118999dd1a10f02459"
+  target="_blank"
             rel="noopener noreferrer"
           >
             Access Resources
